@@ -39,7 +39,7 @@ int thickness = 7;
 int delayTime = 50;
 const char *ssid = "SSID"; //Change this
 const char *password = "PASSWORD"; //Change this
-const char *serverName = "https://hh3dlab.fi/sierre/iot12/iotwrite.php";
+const char *serverName = "HTTPS"; // Change this
 float setPressure = 1035.76;
 Adafruit_BMP280 bmp;
 TinyGPSPlus gps;
